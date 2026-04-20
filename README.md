@@ -35,3 +35,20 @@ Generate all figures at once:
 ```bash
 python generate_all.py
 ```
+
+## Preview
+
+### IAF Module
+![IAF Module](fig_iaf_module.png)
+
+### LLEM Module
+![LLEM Module](fig_llem_module.png)
+
+### RSNE Module
+![RSNE Module](fig_rsne_module.png)
+
+### Overall Architecture
+![Overall Architecture](fig_overall_architecture.png)
+
+### Qualitative Results – nuScenes
+![Qualitative Results](fig_qualitative_nuscenes.png)
